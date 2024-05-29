@@ -55,7 +55,8 @@ After building the project, you can run the main executable:
 
 ### Running the Tests 
 
-After building the project, you can run the main executable:
+After building the project, you can run tests:
 
 ```sh
 ctest
+```
