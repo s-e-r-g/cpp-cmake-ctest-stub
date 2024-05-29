@@ -20,3 +20,5 @@ add_custom_target(
     ${ALL_SOURCE_FILES}
     COMMENT "Running clang-format on source files"
 )
+
+enable_testing()
